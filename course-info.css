@@ -1,56 +1,20 @@
-body {
-    background-color: white;
-    font-family: Georgia, "Times New Roman", serif;
-}
+body {background-color: white;font-family: Georgia, "Times New Roman", serif;}
 
-.page {
-    width: 750px;
-    margin: 40px auto;
-}
+.page {width: 750px;margin: 40px auto;}
 
-h1 {
-    text-align: center;
-    font-size: 20px;
-    margin-bottom: 15px;
-}
+h1 {text-align: center;font-size: 20px;margin-bottom: 15px;}
 
-.top-box {
-    background-color: #e6e6e6;
-    padding: 6px;
-    margin-bottom: 14px;
-}
+.top-box {background-color: gray;padding: 6px;margin-bottom: 14px;}
 
-.top-box p {
-    margin: 0;
-}
+.top-box p {margin: 0;}
 
-h2 {
-    text-transform: uppercase;
-    background-color: #d9d9d9;
-    font-size: 18px;
-    padding: 3px;
-    margin-top: 12px;
-    margin-bottom: 10px;
-}
+h2 {text-transform: uppercase;background-color: lightgray;font-size: 18px;padding: 3px;margin-top: 12px;margin-bottom: 10px;}
 
-.content-box {
-    border: 2px solid #7d3c98;
-    border-radius: 8px;
-    padding: 5px;
-    margin-bottom: 12px;
-}
+.content-box {border: 2px solid purple;border-radius: 8px;padding: 5px;margin-bottom: 12px;}
 
-p {
-    font-size: 16px;
-    margin: 0;
-}
+p {font-size: 16px;margin: 0;}
 
-ol {
-    margin-top: 10px;
-    margin-bottom: 5px;
-}
+ol {margin-top: 10px;margin-bottom: 5px;}
 
-li {
-    font-size: 16px;
-}
+li {font-size: 16px;}
 /* updated */
